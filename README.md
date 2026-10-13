@@ -1,7 +1,9 @@
 # Portal Citadela
 
-## Miembros del equipo
+## Miembros
 
-- Rick (Validador de portales)
-- Morty (Registrador de datos de prueba)
+- Rick (Científico jefe)
+- Morty (Ayudante de campo)
+- Summer (Apoyo estratégico)
+- Jerry (Observador en pruebas)
   Mini web de práctica para aprender Git.
